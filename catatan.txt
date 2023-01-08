@@ -1,0 +1,47 @@
+user :
+a. reviewer
+	- nilai restoran 
+b. restoran
+	- operational restoran dan menu makanan
+
+restoran : 
+- id
+- user_id
+- nama restoran (string)
+- alamat (text)
+- jam buka (time)
+- jam tutup (time)
+- lokasi_map (text)
+- gambar(string)
+- keterangan (text)
+
+review menu: 
+- id
+- user_id
+- menu_id
+- review 
+
+review restoran : 
+- id
+- user_id
+- resto_id
+- review 
+
+menu : 
+- id
+- restoran_id 
+- jenis_menu_id
+- harga (float)
+- gambar (string)
+- keterangan (text)
+
+gambar menu : 
+- id
+- menu_id
+- gambar (string)
+
+rating : 
+- id
+- resto_id
+- bintang
+
