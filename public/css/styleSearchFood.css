@@ -1,0 +1,17 @@
+body{
+    background-color: #939393;
+}
+.btn{
+    background-color: #574B90 ;
+    color: white;
+}
+.btn:hover{
+    background-color: #402e97;
+    color: white;
+}
+.card{
+    background-color: #D9D9D9;
+}
+.card-text{
+    margin-top: -10px;
+}

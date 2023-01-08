@@ -1,0 +1,23 @@
+body{
+    background-color: #AAA69D;
+}
+
+.header{
+    background-color: #D9D9D9 ;
+}
+
+.review{
+    margin-left: -20px;
+}
+
+.btn{
+    background-color: #574B90 ;
+    color: white;
+}
+.btn:hover{
+    background-color: #402e97;
+    color: white;
+}
+.card{
+    background-color: #D9D9D9;
+}

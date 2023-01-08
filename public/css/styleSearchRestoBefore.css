@@ -1,0 +1,20 @@
+body{
+    background-color: #908F8D ;
+}
+
+.card-resto{
+    background-color: #574B90;
+}
+
+.card-detail{
+    margin-left: -30px;
+}
+
+.btn{
+    background-color: #574B90 ;
+    color: white;
+}
+.btn:hover{
+    background-color: #402e97;
+    color: white;
+}

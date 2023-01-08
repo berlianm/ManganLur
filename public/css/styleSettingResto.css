@@ -1,0 +1,35 @@
+body{
+    background-color: #AAA69D;
+}
+
+.header{
+    background-color: #D9D9D9 ;
+}
+.card-nav{
+    width: auto;
+    height: 50px;
+    border-radius: 2em;
+}
+.card-nav:hover{
+    transform: scale(1.1);
+    transition: 1s;
+    background-color: #574B90;
+    color: #fff;
+}
+.btn{
+    background-color: #574B90 ;
+    color: white;
+}
+.btn:hover{
+    background-color: #402e97;
+    color: white;
+}
+.card{
+    background-color: #D9D9D9;
+}
+.card-text{
+    margin-top: -5px;
+}
+.info{
+    margin-left: -40px;
+}

@@ -1,0 +1,30 @@
+body{
+    background-color: #747D8C;
+}
+.tombol{
+    background-color: #574B90 ;
+    color: white;
+}
+.tombol:hover{
+    background-color: #402e97;
+    color: white;
+}
+.card{
+    background-color: #D9D9D9;
+    transform: scale(1.0);
+    transition: 1s;
+    Text-align : justify;
+    Display: flex;
+    /* Align-items : center; */
+    Flex-direction  : column
+}
+.card:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+.btn-wa:hover{
+    background-color: #00a753;
+}
+.btn-ig:hover{
+    background-color: #ca05b0;
+}
